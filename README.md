@@ -12,7 +12,7 @@
 ---
 
 
-## ***Linkdln
+## ***Linkdln***
 - [Juliana Simão](https://www.linkedin.com/in/juliana-simao/) 
 
 
