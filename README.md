@@ -20,4 +20,6 @@
 
 
 ## ***Dashboard*** 
-!MARKDOWN(https://github.com/Julianajjss/case_iFood/blob/main/Painel%201.png)
+![MARKDOWN](https://github.com/Julianajjss/case_iFood/blob/main/Painel%201.png)
+
+---
