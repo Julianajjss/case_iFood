@@ -8,7 +8,7 @@
 
 
 ## ***Tableau Public***
-
+- [Data Storytelling Case](https://public.tableau.com/app/profile/juliana.sim.o/viz/case_ifood_data_analyst/Painel1)
 ---
 
 
@@ -20,3 +20,4 @@
 
 
 ## ***Dashboard*** 
+!MARKDOWN(https://github.com/Julianajjss/case_iFood/blob/main/Painel%201.png)
